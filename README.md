@@ -1,4 +1,4 @@
-# Pro Dream Terms Of Service
+# Pro Dream
 Welcome to Pro Dream, an app designed for individuals over the age of 18. By using this app, you agree to the following Terms of Service:
 
 1. Eligibility: You must be over 18 years old to use this app. By accessing or using Pro Dream, you represent and warrant that you are at least 18 years old.
